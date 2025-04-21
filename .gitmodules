@@ -1,0 +1,3 @@
+[submodule "prime_video_content_analysis"]
+	path = prime_video_content_analysis
+	url = https://github.com/faith99/prime_video_content_analysis.git
