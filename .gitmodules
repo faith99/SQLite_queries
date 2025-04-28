@@ -4,3 +4,6 @@
 [submodule "ChatGPT_user_engagement"]
 	path = ChatGPT_user_engagement
 	url = https://github.com/faith99/ChatGPT_user_engagement.git
+[submodule "meta_ad_segment_analysis"]
+	path = meta_ad_segment_analysis
+	url = https://github.com/faith99/meta_ad_segment_analysis.git
